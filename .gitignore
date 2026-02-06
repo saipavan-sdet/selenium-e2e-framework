@@ -1,0 +1,10 @@
+Git/
+/target/
+/test-output/
+*.log
+*.class
+.settings/
+.project
+.classpath
+.idea/
+*.iml
