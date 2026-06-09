@@ -11,7 +11,7 @@ public class LoginTest extends BaseTest {
     @Test
     public void validLoginTest() {
 
-        System.out.println("Starting Valid Login Test");
+        System.out.println("Starting Valid Login Test...");
 
         driver.findElement(By.id("username")).sendKeys("tomsmith");
         System.out.println("Entered valid username");
