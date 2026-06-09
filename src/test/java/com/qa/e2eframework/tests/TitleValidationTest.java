@@ -21,6 +21,6 @@ public class TitleValidationTest extends BaseTest {
                 "Page title mismatch"
         );
 
-        System.out.println("Page Title Validation Passed");
+        System.out.println("Page Title Validation Passed Successfully");
     }
 }
